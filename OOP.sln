@@ -5,11 +5,15 @@ VisualStudioVersion = 16.0.31729.503
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces", "Interfaces\Interfaces.csproj", "{31171587-0241-4277-8CE4-DA1225FDCEAB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces1", "Interfaces1\Interfaces1.csproj", "{8FAA9D26-DDDE-4A91-9E8B-CF59DAA53FB7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces1", "Interfaces1\Interfaces1.csproj", "{8FAA9D26-DDDE-4A91-9E8B-CF59DAA53FB7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces2", "Interfaces2\Interfaces2.csproj", "{74DE3F88-A2A9-4969-8B73-22362D4AAEFF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Interfaces2", "Interfaces2\Interfaces2.csproj", "{74DE3F88-A2A9-4969-8B73-22362D4AAEFF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Recapdemo1", "Recapdemo1\Recapdemo1.csproj", "{55704909-27F0-436E-87B1-C17973212276}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Recapdemo1", "Recapdemo1\Recapdemo1.csproj", "{55704909-27F0-436E-87B1-C17973212276}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{2EE443BF-5E50-496B-97DF-ABDAD915B404}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConstructorDemo", "ConstructorDemo\ConstructorDemo.csproj", "{BF901773-A5B3-4F7C-9B81-0CED0245DE8B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +37,14 @@ Global
 		{55704909-27F0-436E-87B1-C17973212276}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55704909-27F0-436E-87B1-C17973212276}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55704909-27F0-436E-87B1-C17973212276}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EE443BF-5E50-496B-97DF-ABDAD915B404}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EE443BF-5E50-496B-97DF-ABDAD915B404}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EE443BF-5E50-496B-97DF-ABDAD915B404}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EE443BF-5E50-496B-97DF-ABDAD915B404}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BF901773-A5B3-4F7C-9B81-0CED0245DE8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BF901773-A5B3-4F7C-9B81-0CED0245DE8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BF901773-A5B3-4F7C-9B81-0CED0245DE8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BF901773-A5B3-4F7C-9B81-0CED0245DE8B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
